@@ -1,4 +1,7 @@
 # Dialogue-Summarisation
+![Python](https://img.shields.io/badge/Python-3.7-brightgreen)
+![Framework](https://img.shields.io/badge/Platform-GoogleColab-yellow)
+![Frontend](https://img.shields.io/badge/ML-NLP-green)
 * Dialogue-Summarisation using BART, T5 and supervised contrastive learning.
 * Used Google Colab Platform for the development process.
 * Pre-Trained Bart and T5 from hugging face were used. Currently only used base models due to computation restrictions. 
