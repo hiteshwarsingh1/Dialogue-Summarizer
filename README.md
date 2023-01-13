@@ -1,10 +1,8 @@
-#Dialogue-Summarisation
-Dialogue-Summarisation using BART, T5 and supervised contrastive learning.
-Used Google Colab Platform for the development process.
-
-Pre-Trained Bart and T5 from hugging face were used. Currently only used base models due to computation restrictions. 
-
-To learn more about SCL see https://aclanthology.org/2022.coling-1.569.pdf.
+# Dialogue-Summarisation
+* Dialogue-Summarisation using BART, T5 and supervised contrastive learning.
+* Used Google Colab Platform for the development process.
+* Pre-Trained Bart and T5 from hugging face were used. Currently only used base models due to computation restrictions. 
+* To learn more about SCL see https://aclanthology.org/2022.coling-1.569.pdf.
 
 ## Supervised Contrastive Learning
 
